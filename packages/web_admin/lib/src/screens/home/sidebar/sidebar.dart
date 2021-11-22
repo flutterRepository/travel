@@ -74,19 +74,19 @@ class SchudleCardMob extends StatelessWidget {
           const SizedBox(height: 20.0),
           ScheduleCardMob(
             title: "Crooked Forest",
-            image: "my_schedule/Crooked_Forest.jpg",
+            image: "assets/my_schedule/Crooked_Forest.jpg",
             press: () {},
           ),
           const SizedBox(height: 20.0),
           ScheduleCardMob(
             title: "Gioc Waterfall",
-            image: "my_schedule/Gioc_Waterfall.jpg",
+            image: "assets/my_schedule/Gioc_Waterfall.jpg",
             press: () {},
           ),
           const SizedBox(height: 20.0),
           ScheduleCardMob(
             title: "Tartaruga Comp",
-            image: "my_schedule/Tartaruga_Comp.jpg",
+            image: "assets/my_schedule/Tartaruga_Comp.jpg",
             press: () {},
           ),
         ],

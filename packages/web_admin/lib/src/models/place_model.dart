@@ -12,17 +12,17 @@ class PlaceInfo {
 List places = [
   PlaceInfo(
       location: "Starbase",
-      image: "images/mount_forel.jpg",
+      image: "assets/images/mount_forel.jpg",
       name: "Falcon",
       star: 4.8),
   PlaceInfo(
       location: "Denver",
-      image: "images/eco_camping.jpg",
+      image: "assets/images/eco_camping.jpg",
       name: "Bet au startup",
       star: 5.0),
   PlaceInfo(
       location: "Nevada",
-      image: "images/mount_everest.jpg",
+      image: "assets/images/mount_everest.jpg",
       name: "Desert for inspiration",
       star: 4.5),
 ];
